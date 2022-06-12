@@ -1,0 +1,12 @@
+format = """[ ](bold red)$directory[ ](bold purple) """
+
+[directory]
+style = "bold cyan"
+truncate_to_repo = false
+truncation_length = 1
+fish_style_pwd_dir_length = 1
+
+[username]
+show_always = true
+style_user = "bold white"
+format = "[$user]($style)"
