@@ -1,2 +1,2 @@
 # wezterm
-okklol's wezterm config!
+okklol's wezterm && zsh config!
